@@ -43,7 +43,7 @@ Tools:
 Special Interests:
 
 🌍 Open-Source Contributions
-🎨 UI/UX Design
+🎨 UI/UX 
 💡 Problem Solving & Algorithms
 📫 Let’s Connect!
 I'm excited to connect with other developers, collaborate on projects, and share insights. Check out my projects here, and let’s learn and build something amazing together!
