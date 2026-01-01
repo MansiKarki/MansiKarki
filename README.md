@@ -1,6 +1,6 @@
 👋 Hello, World! I’m Mansi Karki
 🎓 Student | 💻 Developer | 🌱 Open-Source Enthusiast
-Pune , Maharashtra | Second-Year IT Student
+Pune , Maharashtra | Third-Year IT Student
 
 About Me 🚀
 I'm a passionate Information Technology student with a love for coding and creating interactive, visually appealing websites. I’m constantly learning and exploring new technologies to improve my skills and stay updated in the fast-evolving tech world.
