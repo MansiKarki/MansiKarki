@@ -42,5 +42,5 @@ $ currently_working_on
 <a href="https://www.linkedin.com/in/mansi-karki-aa4028264/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
 <a href="https://x.com/MansiKarki23"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"/></a>
 <a href="https://discord.gg/mansikarki"><img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=for-the-badge"/></a>
-<a href="https://dev.to/YOUR_DEVTO"><img src="https://img.shields.io/badge/dev.to-0A0A0A?logo=dev.to&logoColor=white&style=for-the-badge"/></a>
+
 </p>
