@@ -31,11 +31,7 @@ $ currently_working_on
 
 ```
 
-## 📊 GitHub Stats 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=MansiKarki&theme=dracula&hide_border=false" height="150"/> 
- 
-</div>
+
 
 ## 🌐 Connect With Me
 <p align="center">
