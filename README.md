@@ -1,49 +1,46 @@
-👋 Hello, World!!!!!!! I’m Mansi Karki
-🎓 Student | 💻 Developer | 🌱 Open-Source Enthusiast
-Pune , Maharashtra | Third-Year IT Student
+<h1 align="center">Welcome to Mansi Karki's GitHub </h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/MiNy0tlT21CEXxanP4/giphy.gif" width="250"/>
+</p>
 
-About Me 🚀
-I'm a passionate Information Technology student with a love for coding and creating interactive, visually appealing websites. I’m constantly learning and exploring new technologies to improve my skills and stay updated in the fast-evolving tech world.
 
-🔹 Coding Aficionado: Whether it's solving complex algorithms or designing intuitive UIs, coding fuels my creativity and curiosity!
-🔹 Web Development Enthusiast: I love creating seamless web experiences with clean code and design.
-🔹 Aspiring Software Engineer: My goal is to secure a role as a software engineer in a dynamic IT company where I can make an impact and continue growing.
+```bash
+$ whoami
+Mansi Karki |  3rd year IT student in Pune
 
-🌟 Recent Milestones
-🚀 Contributor at GSSoC
-Selected as a contributor for Girlscript Summer of Code, where I contributed to open-source projects, collaborated with peers, and deepened my technical expertise.
+$ interests
+Web Development | Backend Systems | Cloud Technologies
 
-GSSoC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'> <a href="https://gssoc.girlscript.tech/leaderboard"> 
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" height="100px" /> 
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" /> 
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" /> 
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" /> 
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" /> 
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /> 
-</a>
+$ skills --languages
+C | C++ | Java | Python | JavaScript | HTML | CSS
+
+$ skills --frameworks
+ReactJS | Tailwind | Bootstrap | NodeJS | OpenCV
+
+$ skills --databases
+MongoDB | Firebase | Vercel
+
+$ tools
+Git | GitHub | VS Code | MIRO | OpenAI
+
+$ currently_working_on
+- Data Structures & Algorithms
+- Full-Stack Projects
+- Backend & Cloud Deployment
+
+
+```
+
+## 📊 GitHub Stats 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MansiKarki&theme=dracula&hide_border=false" height="150"/> 
+ 
 </div>
-🛠️ Tech Stack & Skills
-Languages:
 
-🌐 C++ | 🐍 Python | 💻 JavaScript
-Web Development:
-
-📜 HTML | 🎨 CSS | ⚛️ React
-Tools:
-
-🛠️ Git | 🖥️ GitHub | 🔍 VS Code
-Special Interests:
-
-🌍 Open-Source Contributions
-🎨 UI/UX 
-💡 Problem Solving & Algorithms
-📫 Let’s Connect!
-I'm excited to connect with other developers, collaborate on projects, and share insights. Check out my projects here, and let’s learn and build something amazing together!
+## 🌐 Connect With Me
+<p align="center">
+<a href="https://www.linkedin.com/in/mansi-karki-aa4028264/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+<a href="https://x.com/MansiKarki23"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"/></a>
+<a href="https://discord.gg/mansikarki"><img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=for-the-badge"/></a>
+<a href="https://dev.to/YOUR_DEVTO"><img src="https://img.shields.io/badge/dev.to-0A0A0A?logo=dev.to&logoColor=white&style=for-the-badge"/></a>
+</p>
